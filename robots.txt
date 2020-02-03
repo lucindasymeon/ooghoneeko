@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://wooreecah.artur-zaseev.pro/sitemap.xml
